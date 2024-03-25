@@ -1,4 +1,4 @@
-![logo](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
+![logo](https://media.licdn.com/dms/image/D5612AQHS3SeYRvp8Qw/article-cover_image-shrink_720_1280/0/1708373261803?e=2147483647&v=beta&t=gqk_1E4AH0qBIrAYIikcDEuLROZhS9FRaU9k6Qm9WlA)
 <h1 align="center">Hi 👋, I'm Shreyan Pal Chowdhury</h1>
 <h3 align="center">Passionate about leveraging AI & Machine Learning to drive innovation, thrive in collaborative environment, where continuous learning is not just a commitment, but a way of life.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreyan-Pal-Chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyan-Pal-Chowdhury" /> </p>
